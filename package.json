@@ -40,7 +40,7 @@
         "base58-native": "^0.1.4",
         "bchaddrjs": "^0.4.2",
         "bignum": "git+https://github.com/Invader444/node-bignum.git#node12",
-        "bitgo-utxo-lib": "git+https://github.com/miketout/bitgo-utxo-lib.git",
+       
         "cryptocurrency-addr": "git+https://github.com/Miguel974/node-cryptocurrency-addr.git",
         "equihashverify": "git+https://github.com/Miguel974/equihashverify.git",
         "merkle-bitcoin": "^1.0.2",
