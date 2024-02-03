@@ -44,7 +44,7 @@
         "cryptocurrency-addr": "git+https://github.com/Miguel974/node-cryptocurrency-addr.git",
         "equihashverify": "git+https://github.com/Miguel974/equihashverify.git",
         "merkle-bitcoin": "^1.0.2",
-        "multi-hashing": "git+https://github.com/Miguel974/node-multi-hashing.git",
+        "multi-hashing": "git+https://github.com/Miguel974/node-multi-hashing2.git",
         "promise": "^8.0.3",
         "verushash": "git+https://github.com/Miguel974/verushash-node.git"
     },
